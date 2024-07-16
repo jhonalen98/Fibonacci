@@ -1,5 +1,0 @@
-Entrada		Identificador
-Fibonacci	fib
-
-Salida		Identificador
-50 numeros	fib_sequence
